@@ -1,0 +1,5 @@
+Vytvorit screen a pustit prikaz v pozadi
+screen -dmS nazev prikaz
+Vypnout screen
+screen -S nazev -X kill
+screen -wipe
